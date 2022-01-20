@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "dev_cache/site-packages",
+        "~/.pyenv/versions/3.10.0/lib/python3.10/site-packages"
+    ]
+}
